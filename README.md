@@ -2,6 +2,7 @@
 - I build this script for my personal use, in order to do ONE single appointment for NIE, because the manual process it is difficult, repetitive and takes a long time (because of the Spanish authorities, *&%!@# )
 - There is no intent to develop this script further 
 - It supports only NIE appointment request in Barcelona province 
+- This script was inspired by [cita-bot](https://github.com/cita-bot/cita-bot) - but this one wasn't working anymore
 
 Requirements: chrome web browser, python 3.x
 
