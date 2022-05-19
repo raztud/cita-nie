@@ -89,7 +89,7 @@ def refresh_page(refresh_count, start_count):
         start_process(start_count)
     else:
         speak("Found! Take action")
-        time.sleep(120)
+        time.sleep(600)
 
 
 def speak(word):
